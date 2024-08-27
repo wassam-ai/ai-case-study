@@ -1,4 +1,4 @@
-# ai-case-study
+# DeepMind Case Study
 
 ## Overview and Origin
 
