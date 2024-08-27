@@ -61,3 +61,33 @@ including medical imaging, electronic health records (EHRs), and genomic informa
 
 * These proposed technologies align well with DeepMind's existing expertise in deep learning and reinforcement learning. They are well-suited for processing and analyzing large, complex datasets, which is crucial for both personalized medicine and public health analytics. By leveraging its existing knowledge base, DeepMind could create highly accurate and impactful AI tools that address some of the most pressing challenges in modern medicine.
 
+## References
+
+[DeepMind](https://deepmind.google/about/)
+
+[Forbes](https://www.forbes.com/sites/bernardmarr/2017/02/02/how-googles-amazing-ai-start-up-deepmind-is-making-our-world-a-smarter-place/)
+
+[Technology Review](https://www.technologyreview.com/2022/02/23/1045016/ai-deepmind-demis-hassabis-alphafold/)
+
+[Youtube Music Podcast1](https://music.youtube.com/watch?v=pZybROKrj2Q)
+
+[Youtube Music Podcast2](https://music.youtube.com/watch?v=lBJvTCUakIk)
+
+[Crunchbase](https://www.crunchbase.com/organization/deepmind)
+
+[Teal HQ](https://www.tealhq.com/company/deepmind#:~:text=DeepMind%20Technologies%20Ltd.,its%20products%20and%20services%20internationally.)
+
+[DeepMind Responsibility and Safety](https://deepmind.google/about/responsibility-safety/)
+
+[Technology Review DeepMind's AI Solves Complex Math Problems](https://www.technologyreview.com/2024/07/25/1095315/google-deepminds-ai-systems-can-now-solve-complex-math-problems/#:~:text=Google%20DeepMind%20says%20it%20has,math%20problems%20involving%20advanced%20reasoning.)
+
+[DeepMind Real Word AGI Challenges](https://deepmind.google/discover/blog/real-world-challenges-for-agi/)
+
+[Use Sign House Stats for DeepMind](https://usesignhouse.com/blog/deepmind-stats/)
+
+[Docomatic OpenAI vs DeepMind](https://www.docomatic.ai/blog/comparison/openai-vs-deepmind/)
+
+[Google Blogs](https://blog.google/inside-google/company-announcements/building-ai-future-april-2024/)
+
+[Wikipedia DeepMind](https://en.wikipedia.org/wiki/Google_DeepMind)
+
