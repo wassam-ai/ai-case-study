@@ -32,11 +32,11 @@ including medical imaging, electronic health records (EHRs), and genomic informa
 * Over the past decade, AI in medicine has witnessed significant advancements, particularly in medical imaging, genomics, drug discovery, and personalized medicine. Key trends include the integration of AI with medical devices, the rise of AI-powered telemedicine, and the application of machine learning algorithms to predict patient outcomes and optimize treatment plans. Innovations such as deep learning-based diagnostics and AI-driven drug development have revolutionized disease understanding and treatment approaches.
 
 * Key competitors in the AI for medicine space include:
-•	IBM Watson Health (focus on oncology and genomics)
-•	PathAI (specializing in pathology diagnostics)
-•	Tempus (leveraging AI for precision medicine, particularly in cancer treatment)
-•	Zebra Medical Vision (specializing in medical imaging)
-•	Butterfly Network (known for AI-powered handheld ultrasound devices)
+** IBM Watson Health (focus on oncology and genomics)
+** PathAI (specializing in pathology diagnostics)
+** Tempus (leveraging AI for precision medicine, particularly in cancer treatment)
+** Zebra Medical Vision (specializing in medical imaging)
+** Butterfly Network (known for AI-powered handheld ultrasound devices)
 
 
 ## Results
